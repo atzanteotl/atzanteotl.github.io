@@ -1,19 +1,19 @@
 ---
 layout: default
-title: [The title of your site]
+title: About
 ---
 
-# Lecturer Australian Research Centre for Interactive and Virtual Environments, UniSA
+# Lecturer | Australian Research Centre for Interactive and Virtual Environments | UniSA
 
-I am a Lecturer in HCI at the. I work on a research initiative called Immersive Analytics, where I explore, develop and evaluate interactive data visualisation in AR/VR. 
+My aim is to help people understand the world by revealing and communicating insights within the data around us. 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ## Projects
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E9uj9k90zvo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>Hello world</div>
 
 ## Publications
 
