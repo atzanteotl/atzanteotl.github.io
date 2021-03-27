@@ -10,16 +10,27 @@ My aim is to help people understand the world by revealing and communicating ins
 
 ## Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I believe two novel areas of data visualisation research can help with this: **narrative visualisation** and **immersive analytics**. Narrative visualisation seeks to tell the story hidden within data. Immersive analytics seeks to apply novel immersive technologies, such as augmented reality, to reveal new insights in data.
+
+#### ImAxes
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E9uj9k90zvo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>Hello world</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hxqJJ934Reg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<br>
+
+#### Immersive Visualisation of Geo-Temporal Narratives in Law Enforcement
+
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E9uj9k90zvo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<br>
 
 ## Publications
 
 A full list of publications is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=6bJwVI0AAAAJ&view_op=list_works&sortby=pubdate)
 
 * R Cao, J Walsh, **A Cunningham**, M Kohler, RT Smith, BH Thomas, "Examining Computer–Supported 3D Event Recreation for Enhancing Cognitive Load, Memorability, and Engagement", 
+
+
 
 <!-- > This is a blockquote following a header.
 >

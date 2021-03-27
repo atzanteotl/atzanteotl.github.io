@@ -2,3 +2,9 @@ _site
 .sass-cache
 Gemfile.lock
 *.gem
+
+.github/*
+assets/fonts/*
+docs/*
+script/*
+Gemfile
