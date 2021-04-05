@@ -4,3 +4,4 @@ description: I like to tell stories with data.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
