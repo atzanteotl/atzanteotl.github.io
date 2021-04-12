@@ -15,13 +15,13 @@ I believe two novel areas of data visualisation research can help with this: **n
 #### ImAxes
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hxqJJ934Reg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/hxqJJ934Reg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <br>
 
 #### Immersive Visualisation of Geo-Temporal Narratives in Law Enforcement
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E9uj9k90zvo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/E9uj9k90zvo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 <br>
 
 ## Publications
